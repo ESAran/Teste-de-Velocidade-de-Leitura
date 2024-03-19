@@ -1,0 +1,28 @@
+1. Criar uma calculadora de PPM (Palavras por minuto), para determinar tempo que leva a leitura de um livro.
+
+2. Fazer arquivo de bd com diversos contos divididos em pequenos médios e grandes.
+
+3. fazer a pessoa ler calculando o tempo e depois mostrar o tempo com comparação de quantos dias vai levar etc
+
+4. Validar como fazer o front, se valheria fazer por html
+
+______________________
+
+CALCULO:
+
+Transforme os segundos em décimos de minuto, dividindo por 6 (considere somente a parte inteira)
+
+Ex.: tempo: _2__ minutos _32__ segundos
+
+32: 6 = 5,3
+
+Tempo = 2,5 minutos
+
+Divida o número médio de palavras do texto pelo tempo registrado em minutos.
+
+Ex.: número de palavras do texto: 260
+
+Tempo em minutos: 2,5
+
+Ppm 260: 2,5 = 104 palavras lidas por minuto
+
